@@ -1,5 +1,8 @@
 # Dlint Plugin Example
 
+[![Build Status](https://travis-ci.org/dlint-py/dlint-plugin-example.svg?branch=master)](https://travis-ci.org/dlint-py/dlint-plugin-example)
+[![Build Status](https://ci.appveyor.com/api/projects/status/github/dlint-py/dlint-plugin-example?branch=master&svg=true)](https://ci.appveyor.com/project/mschwager/dlint-plugin-example/branch/master)
+
 This repository demonstrates a custom Dlint plugin. Custom plugins are useful
 for internal linter rules or rules that aren't generally applicable to all
 Python codebases, but would like to build on Dlint's functionality.

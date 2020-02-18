@@ -7,4 +7,7 @@ setup(
         'dlint_plugin_abs',
         'dlint_plugin_sys',
     ],
+    install_requires=[
+        'dlint',
+    ],
 )
